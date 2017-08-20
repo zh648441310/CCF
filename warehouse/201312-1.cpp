@@ -1,7 +1,7 @@
 #include<iostream>
 #include<cstring>
 using namespace std;
-int a[10002];
+int a[10001];
 
 int main()
 {
